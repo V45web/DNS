@@ -1,10 +1,10 @@
 const domain = {
   //domain
-    "sanag.dev": {
+    "sanag.yo": {
       ip: "190.628.199",
       account_id: "1001628027"
     },
-    "harsh.dev": {
+    "harsh.hello": {
       ip: "190.628.199",
       account_id: "1002828027"
     },
