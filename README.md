@@ -1,1 +1,1 @@
-Im trying to make my own dns
+Im trying to make my own dns and domain
